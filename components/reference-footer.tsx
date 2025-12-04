@@ -27,7 +27,7 @@ export default function ReferenceFooter({ references }: ReferenceFooterProps) {
       </div>
 
       <div className="text-xs text-muted-foreground pt-4 border-t border-muted">
-        <p>© 2025 Callixta Fidelia C</p>
+        <p>© 2025 Callixta Fidelia Cahyaningrum (Student number: 73735185)</p>
       </div>
     </footer>
   )
